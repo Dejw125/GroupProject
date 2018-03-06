@@ -7,7 +7,9 @@
  * GridView class generates a textual grid where robot and destination can be placed.
  * Robot is represented as 1;
  * Destination is represented as 2;
- * If robot and destination are in the same place, it is represented as 3; 
+ * If robot and destination are in the same place, it is represented as 3;
+ * 
+ *  Thanks
  */
 
 public class GridView {
